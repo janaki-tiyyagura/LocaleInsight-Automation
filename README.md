@@ -77,3 +77,6 @@ LocaleInsight Automation:
 
 ---
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 9, 2026, 10_53_53 PM" src="https://github.com/user-attachments/assets/41082122-9c4f-4ea8-b9d6-aadb0499bc52" />
+
