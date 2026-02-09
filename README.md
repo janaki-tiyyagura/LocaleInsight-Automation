@@ -83,7 +83,3 @@ LocaleInsight Automation:
 
 ---
 
-<img width="1299" height="588" alt="image" src="https://github.com/user-attachments/assets/073e7eeb-5b69-46bc-b853-b29315243afc" />
-
----
-
